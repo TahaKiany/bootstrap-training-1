@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    border: none;
+}
+body{
+    direction: rtl;
+}
+h2{
+    padding: 10px 15px;
+    font-size: 22px;
+    color: #444;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 15px;
+}
+table th{
+    border-left: 1px solid #fff;
+}
